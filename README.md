@@ -1,6 +1,6 @@
 
 # Ode to Our JR PHP Developers
-## Self-service Code Review and Fix Before Commit & Push The Changes
+## Self-service Code Review and Code Fixing Before Committing & Pushing The Changes
 
 ### What you need?
 
